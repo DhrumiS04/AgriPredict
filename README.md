@@ -28,7 +28,7 @@ This project is licensed under the Apache 2.0 License. See the `LICENSE` file fo
 
 ## Contact
 
-For any questions or issues, please open an issue on the GitHub repository or contact us at (mailto:dhrumi.shah51@nmims.in).
+For any questions or issues, please open an issue on the GitHub repository or contact us at dhrumi.shah51@nmims.in
 
 ## Acknowledgments
 
